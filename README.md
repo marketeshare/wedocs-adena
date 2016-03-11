@@ -1,4 +1,4 @@
-wedocs-adena
+#WordPress Theme 'wedocs-adena'
 
 Adena's customized weDocs Theme from weDevs
 
